@@ -1,0 +1,7 @@
+Imagen1 - Desfasaje Dipolo
+Imagen2 - Diferencia entre extremos de R de 1K. CH2 es el extremo del dipolo
+Imagen3 - Ej2, tiempo de establecimiento
+Imagen4 - Ej2, tiempo de establecimiento CON diodo
+Imagen5 - Ej2, tiempo de establecimiento SIN diodo
+Imagen6 - Ej3
+Imagen7 - Ej4
